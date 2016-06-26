@@ -1,4 +1,4 @@
-#Progressive Web Apps Demo showing PouchDB and Background Sync with Service Worker
+#Progressive Web Apps Demo showing Push-Messaging, PouchDB and Background Sync with Service Worker
 
 ## Installation
 
